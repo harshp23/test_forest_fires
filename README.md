@@ -62,6 +62,8 @@ Dataset Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml
 |Linear Regression | 0.54 |0.98|
 |Lasso Regression | 1.13 | 0.94 |
 |Ridge Regression | 0.56 | 0.984 |
+
+
 ✅ Ridge Regression was selected because it generalized best on unseen data.
 
 ## Project Screenshot
@@ -73,9 +75,4 @@ Harsh Patil
 
 
 
-
-
-
-
-## ⚙️ Project Structure
 
